@@ -7,7 +7,7 @@ As a data analyst for PyBer, a Python based ride sharing app, I have been tasked
 ## Results: 
 
 The following summary data frame provides a concise overview of the ride-sharing data by city type. 
-![summary_df](link....
+![summary_df](https://github.com/MichaelaAnastasiaAustin/PyBer_Analysis/blob/main/PyBer_Summary_df.png)
 
 - Rural cities have the least number of rides, lowest number of drivers, and lowest total fares.
 -  Urban cities have the highest rides, drivers, and total fares. 
